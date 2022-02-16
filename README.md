@@ -9,8 +9,8 @@ $ pkg install git
 
 ## download
 ```python
-$ git clone https://github.com/IndonesiaCyberXploid1/ResetTermux
-$ cd ResetTermux
+$ git clone https://github.com/IndonesiaCyberXploid1/ResetTermos
+$ cd ResetTermos
 $ python ResetTermux.py
 ```
 
